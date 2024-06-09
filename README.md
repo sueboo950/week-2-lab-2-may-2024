@@ -16,12 +16,12 @@ A simple HTML page about me and my hobby.
 - [x] Create Readme
 - [x] Create index.html
 - [x] Update README author
-- [ ] Update Home page (index.html with my info)
-- [ ] Create gallery.html
+- [] Update Home page (index.html with my info)
+- [x] Create gallery.html
 - [ ] Add 3 pictures
-- [ ] Create about.html
+- [x] Create about.html
 - [ ] Create 2 lists
-- [ ] Add a tags to link the pages together
+- [x] Add a tags to link the pages together
 - [ ] Review pages for errors (missing closing tags or missing characters like = " or &gt;)
 
 ### Bonus and Extension
@@ -35,7 +35,7 @@ You may choose to do a bonus or extension. These are optional activities that wi
 
 ## Contact
 
-Author: robert.mccreary@codex.academy
+Author: Sophie950950@yahoo.com
 
 ## Acknowledgements
 
