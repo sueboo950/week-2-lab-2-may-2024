@@ -20,7 +20,7 @@ A simple HTML page about me and my hobby.
 - [x] Create gallery.html
 - [ ] Add 3 pictures
 - [x] Create about.html
-- [ ] Create 2 lists
+- [x] Create 2 lists
 - [x] Add a tags to link the pages together
 - [ ] Review pages for errors (missing closing tags or missing characters like = " or &gt;)
 
