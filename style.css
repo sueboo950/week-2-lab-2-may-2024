@@ -7,3 +7,24 @@ footer {
   text-align: center;
   font-size: x-small;
 }
+
+backgroung{
+background-color: hsl(318, 97, 20); background-repeat: repeat;
+}
+
+a {
+  font-display: block; font-style: italic; color: white;
+}
+
+a:link, a:visited {
+background-color: hsl(290, 34%, 51%);
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+
+a:hover, a:active {
+background-color: hsl(291, 34%, 51%);
+}
